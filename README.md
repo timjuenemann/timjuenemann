@@ -1,4 +1,7 @@
-# My projects
+# Tim Jünemann
+
+
+## Projects
 
 Take a look at some of my projects.
 
