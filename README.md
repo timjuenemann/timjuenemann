@@ -1,9 +1,6 @@
-# Hello 👋
+# Hello curious visitor 👋
 
-
-## Projects
-
-Take a look at some of my projects.
+## Some of my projects
 
 ### Movie-Swipe.com 🍿
 Swipe through movies like you would swipe through people on Tinder. [Check it out.](https://movie-swipe.com)
