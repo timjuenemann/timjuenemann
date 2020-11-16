@@ -1,4 +1,4 @@
-# Hello curious visitor 👋
+# Hello 👋
 
 ## Some of my projects
 
