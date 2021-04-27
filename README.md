@@ -1,6 +1,6 @@
 # Take a look at my projects 👨🏻‍💻
 
-### Movie-Swipe.com 🍿
+### MovieSwipe 🍿
 Swipe through movies like you would swipe through people on Tinder. Check out the [iOS](https://apps.apple.com/de/app/movieswipe/id1546767090) or [android](https://play.google.com/store/apps/details?id=com.tinderformoviesaltapp) app.
 
 ### Moty 🚀
